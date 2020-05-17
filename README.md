@@ -1,6 +1,8 @@
 # resume-search
 PES programs - 2020 Quarantine and chill
+
 -----Project Statement-------
+
 Project #18
 
 Resume (Bio-data) scanning software: Given a number of text files and the patterns to look for, separate out those files which have these patterns in them.
