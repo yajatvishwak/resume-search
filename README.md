@@ -51,4 +51,7 @@ gcc -Wall -c main.c
 ```
 gcc -o op server.o main.o
 ```
+```
+./op
+```
 
