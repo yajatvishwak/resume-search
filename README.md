@@ -38,8 +38,7 @@ I guess you see where i am going with this
 
 
 
-
-[Imgur](https://i.imgur.com/IVygftR.gifv)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
