@@ -17,6 +17,30 @@ Print out the names of those files which satisfy the search criterion
 
 To run the file
 ```
+go to the fridge and get me snacks
+```
+```
+I am waiting....
+```
+```
+Why are you still here?
+```
+```
+I want nachos with cheese dip
+```
+```
+You want to learn how get this program running
+```
+```
+I guess you see where i am going with this
+```
+
+
+![Alt Text](https://tenor.com/92Ra.gif)
+
+
+
+```
 gcc -Wall -c server.c 
 ```
 ```
