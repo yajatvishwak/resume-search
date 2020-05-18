@@ -15,3 +15,14 @@ Print out the names of those files which satisfy the search criterion
 
 -----Project Statement-------
 
+To run the file
+```
+gcc -Wall -c server.c 
+```
+```
+gcc -Wall -c main.c
+```
+```
+gcc -o op server.o main.o
+```
+
