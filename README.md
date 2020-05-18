@@ -40,8 +40,8 @@ I guess you see where i am going with this
 
 ![Alt Text](https://i.imgur.com/IVygftR.gif)
 
-
-
+...
+Okay fine.... here it is...
 ```
 gcc -Wall -c server.c 
 ```
